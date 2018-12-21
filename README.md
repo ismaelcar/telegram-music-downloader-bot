@@ -1,5 +1,5 @@
 # telegram-music-downloader-bot
-Telegram Bot to remotely download to your pc
+Telegram Bot to remotely download music to your pc
 
 Required:
 - Python 2.7
